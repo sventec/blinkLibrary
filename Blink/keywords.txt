@@ -1,0 +1,6 @@
+Blink   KEYWORD1
+startBlink  KEYWORD2
+getOnInterval   KEYWORD2
+getOffInterval  KEYWORD2
+setOnInterval   KEYWORD2
+setOffInterval  KEYWORD2
